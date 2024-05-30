@@ -1,0 +1,152 @@
+[
+    {
+        "symbol": "PATH",
+        "name": "UiPath Inc.",
+        "price": "12.08",
+        "change": "-33.99%"
+    },
+    {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "price": "178.95",
+        "change": "+1.57%"
+    },
+    {
+        "symbol": "CRM",
+        "name": "Salesforce, Inc.",
+        "price": "217.23",
+        "change": "-20.02%"
+    },
+    {
+        "symbol": "NIO",
+        "name": "NIO Inc.",
+        "price": "5.03",
+        "change": "+2.03%"
+    },
+    {
+        "symbol": "ASTS",
+        "name": "AST SpaceMobile, Inc.",
+        "price": "8.58",
+        "change": "-4.88%"
+    },
+    {
+        "symbol": "AAL",
+        "name": "American Airlines Group Inc.",
+        "price": "11.44",
+        "change": "-1.55%"
+    },
+    {
+        "symbol": "AI",
+        "name": "C3.ai, Inc.",
+        "price": "27.09",
+        "change": "+13.26%"
+    },
+    {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "price": "1,133.12",
+        "change": "-1.32%"
+    },
+    {
+        "symbol": "MARA",
+        "name": "Marathon Digital Holdings, Inc.",
+        "price": "20.10",
+        "change": "-0.67%"
+    },
+    {
+        "symbol": "DELL",
+        "name": "Dell Technologies Inc.",
+        "price": "167.79",
+        "change": "-6.37%"
+    },
+    {
+        "symbol": "KSS",
+        "name": "Kohl's Corporation",
+        "price": "20.20",
+        "change": "-25.85%"
+    },
+    {
+        "symbol": "HOOD",
+        "name": "Robinhood Markets, Inc.",
+        "price": "21.67",
+        "change": "+2.77%"
+    },
+    {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "price": "164.16",
+        "change": "-0.59%"
+    },
+    {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "price": "191.07",
+        "change": "+0.41%"
+    },
+    {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc.",
+        "price": "21.22",
+        "change": "+1.35%"
+    },
+    {
+        "symbol": "F",
+        "name": "Ford Motor Company",
+        "price": "11.70",
+        "change": "+1.21%"
+    },
+    {
+        "symbol": "CLSK",
+        "name": "CleanSpark, Inc.",
+        "price": "16.88",
+        "change": "-1.09%"
+    },
+    {
+        "symbol": "HPQ",
+        "name": "HP Inc.",
+        "price": "37.03",
+        "change": "+12.90%"
+    },
+    {
+        "symbol": "FL",
+        "name": "Foot Locker, Inc.",
+        "price": "28.60",
+        "change": "+26.99%"
+    },
+    {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "price": "179.54",
+        "change": "-1.37%"
+    },
+    {
+        "symbol": "RIVN",
+        "name": "Rivian Automotive, Inc.",
+        "price": "10.34",
+        "change": "+1.17%"
+    },
+    {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "price": "418.97",
+        "change": "-2.38%"
+    },
+    {
+        "symbol": "PLUG",
+        "name": "Plug Power Inc.",
+        "price": "3.1300",
+        "change": "-2.19%"
+    },
+    {
+        "symbol": "WBD",
+        "name": "Warner Bros. Discovery, Inc.",
+        "price": "7.66",
+        "change": "+0.01%"
+    },
+    {
+        "symbol": "GRAB",
+        "name": "Grab Holdings Limited",
+        "price": "3.6450",
+        "change": "+0.14%"
+    }
+]
